@@ -21,5 +21,6 @@ int main(void)
 
     printf("System uptime: %.2f seconds\n", uptime_seconds);
 
+    this_is_invalid_code;
     return 0;
 }
